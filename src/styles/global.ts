@@ -5,7 +5,7 @@ export const GlobalStyle = createGlobalStyle`
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        
+
     }
 
     :focus {
@@ -19,7 +19,7 @@ export const GlobalStyle = createGlobalStyle`
         -webkit-font-smoothing: antialiased;
     }
 
-    body, input, textareaa, button {
+    body, input, textarea, button {
         font: 400 1 rem Roboto, sans-serif;
     }
 `
